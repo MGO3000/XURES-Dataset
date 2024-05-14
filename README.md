@@ -23,7 +23,7 @@ MLS point clouds<br>
 
 <b>Download:</b><br> 
 
-Dataset can be download at: [OneDrive](https://universidadevigo-my.sharepoint.com/personal/annovo_uvigo_gal/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fannovo%5Fuvigo%5Fgal%2FDocuments%2FXur%C3%A9s%20Dataset&ga=1)
+Dataset can be download at: [OneDrive](https://universidadevigo-my.sharepoint.com/:f:/g/personal/annovo_uvigo_gal/Euy1Jj4ErsxFo3PU3RYci38BuqQ2yCfLwUGBjC3ZhEVZeg?e=AQoqPs)
 
 <b>Citation:</b><br> 
 

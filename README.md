@@ -5,7 +5,10 @@ Fernando Rodriguez-Jimenez, Ana Novo, Antero Kukko, Harri Kaartinen, Henrique Lo
 The XURES Dataset is a comprehensive, labeled point cloud database acquired with a MLS System using, a kinematic Akhaka-R3 backpack mobile laser scanning unit developed and built at the Finnish Geospatial Research institute. This backpack system comprises two laser scanner systems: the Riegl VUX-1HA, operating at 1550 nm wavelength, and the MiniVUX-1UAV, operating at a wavelength of 905 nm, with cross-track profiling of 360-degree field of view. The Xures Dataset were collected in the Xures National Park (Northwest of Spain).
 
 Firstly, the data were merged into a single file, as the dataset comprises more than 30 files per sensor for each plot. Then, the file was georeferenced in the EPSG:25829 ETRS89/ UTM zone 29N coordinate system, and outliers were removed. Therefore, the dataset presented here consists of three files per sensor. The VUX dataset contains approximately 50 million points, totaling 2.86 GB in size, while the MiniVUX dataset contains around 6 million points, with a size of 340 MB. Each dataset covers an extension of 625 m².<br>
-a) Riegl MiniVUX-1UAV; b) Riegl VUX-1HA
+
+![) Riegl MiniVUX-1UAV; b) Riegl VUX-1HA](https://github.com/MGO3000/XURES-Dataset/raw/main/ImagenGit.jpg)
+
+                                         a) Riegl MiniVUX-1UAV; b) Riegl VUX-1HA
 
 <b>Point Cloud attributes:</b><br>
 

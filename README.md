@@ -31,4 +31,4 @@ Dataset can be download at: [OneDrive](https://universidadevigo-my.sharepoint.co
 
 <b>Acknowledgements:</b><br>  
 
-Project 4Map4Health, selected in the call ERA-Net CHIST-ERA (2019), and funded by the State Research Agency of Spain (reference PCI2020-120705-2/AEI/10.13039/501100011033).
+Project 4Map4Health, selected in the call ERA-Net CHIST-ERA (2019). PCI2020-120705-2, funded by MCIN/AEI/10.13039/501100011033 and by the European Union ‘NextGenerationEU’/PRTR’.<br>
